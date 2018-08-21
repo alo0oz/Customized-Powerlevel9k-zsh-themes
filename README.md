@@ -1,1 +1,1 @@
-# Customized-Powerlevel9k-zsh-themes
+# Customized Powerlevel9k zsh themes
